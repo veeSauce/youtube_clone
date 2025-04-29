@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "rootDir": "video-processing-service/src",
+      "outDir": "dist",
+      "strict": true,
+      "esModuleInterop": true},
+    "include": ["video-processing-service/src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
